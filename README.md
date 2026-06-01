@@ -49,7 +49,6 @@ Two-Tier-Flask-App/
 ├── Dockerfile              # Flask container definition
 ├── docker-compose.yml      # Multi-container orchestration (Flask + MySQL)
 ├── Jenkinsfile             # Jenkins pipeline script
-├── diagrams/               # Architecture & workflow diagrams
 └── README.md
 ```
 
